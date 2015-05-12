@@ -1,0 +1,18 @@
+CMD;
+
+adduser <uživatel>
+userdel <uživatel>
+userdel -r <uživatel>
+passwd <uživatel>
+
+mkdir <složka> - vytvoří složku
+rmddir <složka> - smaže složku
+touch <soubor> - vytvoří soubor
+cd / - horní složka
+ls  - zobrazení složkek
+whoami - aktulalní ueser
+mv - <soubor> /home/root/film - pčesune soubor
+cp <soubor> /home/kokot/ - copy
+
+
+
