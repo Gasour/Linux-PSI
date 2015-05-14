@@ -8,6 +8,7 @@ passwd <uživatel>
 mkdir <složka> - vytvoří složku
 rmddir <složka> - smaže složku
 touch <soubor> - vytvoří soubor
+rm <složka>
 cd / - horní složka
 ls  - zobrazení složkek
 whoami - aktulalní ueser
